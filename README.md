@@ -1,5 +1,5 @@
 
-# Sistema de Gerenciamento de Museus
+# 🏛️ Sistema de Gerenciamento de Museus
 
 Este sistema foi desenvolvido como parte da disciplina de Programação e Engenharia de Software (PES) do Instituto Federal de Santa Catarina. O objetivo do projeto é criar uma aplicação colaborativa para o gerenciamento de controle de estoque, com interfaces gráficas e integração com banco de dados, além do uso de modelagem de software para garantir uma estrutura sólida, facilitando a manutenção, escalabilidade e eficiência no desenvolvimento da aplicação
 
