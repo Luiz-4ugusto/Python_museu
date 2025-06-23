@@ -68,7 +68,10 @@ O sistema foi desenvolvido em Python, com interface gráfica feita em Tkinter, b
 | **Tkinter**             | Biblioteca gráfica utilizada para desenvolver a interface do usuário       |
 | **Visual Studio Code (VS Code)** | Ambiente de desenvolvimento (IDE) utilizado para escrever, organizar e executar o código-fonte |
 
+## Diagramação 
 
+
+![Diagrama](requisitosdiagrama/diagrama.drawio.png)
 
 
 ## Banco de Dados
